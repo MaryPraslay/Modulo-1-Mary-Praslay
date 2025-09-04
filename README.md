@@ -1,7 +1,7 @@
-## Receita de Bolo de Chocolate
+## Receita de macarrâo com queijo
 
-- 2 xícaras de farinha
-- 3 ovos 
-- 1 xícara de açúcar
-- 1 xícara de chocolate em pó
-- 1 xícara de leite
+- 1 pacote de macarrâo
+- 200 gr de queijo ralado
+- 1 copo de leite
+- sal a gosto
+  
